@@ -1,7 +1,4 @@
-#git course
-
+# git course
 for elzro school
-
-
-##project notes
+## project notes
 ### start your project
